@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kujibewosimo.pages.dev/sitemap.xml
